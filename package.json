@@ -1,0 +1,20 @@
+{
+  "name": "threewithnode",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "three": "^0.108.0"
+  },
+  "devDependencies": {
+    "lite-server": "^2.5.4",
+    "webpack": "^4.39.3",
+    "webpack-cli": "^3.3.8"
+  }
+}
