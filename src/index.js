@@ -8,7 +8,7 @@ let scene = new THREE.Scene();
 let camera = new THREE.PerspectiveCamera( 75, window.innerWidth / window.innerHeight, 0.1, 4000 );
     camera.position.set(-150, 400, 350);
 //position the camera
-camera.position.set(-250, 250, 250);
+camera.position.set(-251, 251, 251);
 //set where the camera is looking
 camera.lookAt(new THREE.Vector3(0,0,0));
 //make a material
